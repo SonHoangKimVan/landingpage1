@@ -7,84 +7,84 @@ const menuItems = [
         name: 'Trà Đông Trùng Hạ Thảo',
         category: 'traditional',
         price: 55000,
-        image: './img/tra-dong-trung-ha-thao.jpg'
+        image: 'https://raw.githubusercontent.com/SonHoangKimVan/landingpage1/main/img/tra-dong-trung-ha-thao.jpg'
     },
     {
         id: 2,
         name: 'Trà Dưỡng Nhan An Nhiên',
         category: 'fruit-tea',
         price: 48000,
-        image: './img/tra-duong-nhan.jpg'
+        image: 'https://raw.githubusercontent.com/SonHoangKimVan/landingpage1/main/img/tra-duong-nhan.jpg'
     },
     {
         id: 3,
         name: 'Trà Dưỡng Tâm',
         category: 'traditional',
         price: 50000,
-        image: './img/tra-duong-tam.jpg'
+        image: 'https://raw.githubusercontent.com/SonHoangKimVan/landingpage1/main/img/tra-duong-tam.jpg'
     },
     {
         id: 4,
         name: 'Trà Gạo Lứt Thảo Mộc',
         category: 'traditional',
         price: 42000,
-        image: './img/tra-gao-lut-thao-moc.jpg'
+        image: 'https://raw.githubusercontent.com/SonHoangKimVan/landingpage1/main/img/tra-gao-lut-thao-moc.jpg'
     },
     {
         id: 5,
         name: 'Trà Giải Nhiệt Chanh Dây Kim Quất',
         category: 'fruit-tea',
         price: 45000,
-        image: './img/tra-giai-nhiet-chanh-day-kim-quat.jpg'
+        image: 'https://raw.githubusercontent.com/SonHoangKimVan/landingpage1/main/img/tra-giai-nhiet-chanh-day-kim-quat.jpg'
     },
     {
         id: 6,
         name: 'Trà Sáng C Tối A Đẹp Da',
         category: 'fruit-tea',
         price: 52000,
-        image: './img/tra-sang-c-toi-a-dep-da.jpg'
+        image: 'https://raw.githubusercontent.com/SonHoangKimVan/landingpage1/main/img/tra-sang-c-toi-a-dep-da.jpg'
     },
     {
         id: 7,
         name: 'Trà Cung Đình Huế',
         category: 'traditional',
         price: 58000,
-        image: './img/tra-cung-dinh-hue.jpg'
+        image: 'https://raw.githubusercontent.com/SonHoangKimVan/landingpage1/main/img/tra-cung-dinh-hue.jpg'
     },
     {
         id: 8,
         name: 'Trà Hoa Sen',
         category: 'traditional',
         price: 52000,
-        image: './img/tra-hoa-sen.jpg'
+        image: 'https://raw.githubusercontent.com/SonHoangKimVan/landingpage1/main/img/tra-hoa-sen.jpg'
     },
     {
         id: 9,
         name: 'Trà Ngũ Hắc',
         category: 'traditional',
         price: 48000,
-        image: './img/tra-ngu-hac.jpg'
+        image: 'https://raw.githubusercontent.com/SonHoangKimVan/landingpage1/main/img/tra-ngu-hac.jpg'
     },
     {
         id: 10,
         name: 'Trà Sen Ướp Xổi An Nhiên',
         category: 'traditional',
         price: 55000,
-        image: './img/tra-sen-uop-xoi.jpg'
+        image: 'https://raw.githubusercontent.com/SonHoangKimVan/landingpage1/main/img/tra-sen-uop-xoi.jpg'
     },
     {
         id: 11,
         name: 'Trà Tâm Sen',
         category: 'traditional',
         price: 50000,
-        image: './img/tra-tam-sen.jpg'
+        image: 'https://raw.githubusercontent.com/SonHoangKimVan/landingpage1/main/img/tra-tam-sen.jpg'
     },
     {
         id: 12,
         name: 'Mứt Gừng Mật Ong Sấy Dẻo An Nhiên',
         category: 'traditional',
         price: 45000,
-        image: './img/mut-gung-mat-ong.jpg'
+        image: 'https://raw.githubusercontent.com/SonHoangKimVan/landingpage1/main/img/mut-gung-mat-ong.jpg'
     }
 ];
 
@@ -126,12 +126,12 @@ const reviews = [
    GALLERY DATA
    ======================== */
 const galleryImages = [
-    { id: 1, image: './img/banner.jpg', title: 'Không gian quán' },
-    { id: 2, image: './img/anhcauchuyen.jpg', title: 'Quy trình pha chế' },
-    { id: 3, image: './img/tra-dong-trung-ha-thao.jpg', title: 'Trà Đông Trùng Hạ Thảo' },
-    { id: 4, image: './img/tra-duong-nhan.jpg', title: 'Trà Dưỡng Nhan' },
-    { id: 5, image: './img/tra-duong-tam.jpg', title: 'Trà Dưỡng Tâm' },
-    { id: 6, image: './img/tra-gao-lut-thao-moc.jpg', title: 'Trà Gạo Lứt' }
+    { id: 1, image: 'https://raw.githubusercontent.com/SonHoangKimVan/landingpage1/main/img/banner.jpg', title: 'Không gian quán' },
+    { id: 2, image: 'https://raw.githubusercontent.com/SonHoangKimVan/landingpage1/main/img/anhcauchuyen.jpg', title: 'Quy trình pha chế' },
+    { id: 3, image: 'https://raw.githubusercontent.com/SonHoangKimVan/landingpage1/main/img/tra-dong-trung-ha-thao.jpg', title: 'Trà Đông Trùng Hạ Thảo' },
+    { id: 4, image: 'https://raw.githubusercontent.com/SonHoangKimVan/landingpage1/main/img/tra-duong-nhan.jpg', title: 'Trà Dưỡng Nhan' },
+    { id: 5, image: 'https://raw.githubusercontent.com/SonHoangKimVan/landingpage1/main/img/tra-duong-tam.jpg', title: 'Trà Dưỡng Tâm' },
+    { id: 6, image: 'https://raw.githubusercontent.com/SonHoangKimVan/landingpage1/main/img/tra-gao-lut-thao-moc.jpg', title: 'Trà Gạo Lứt' }
 ];
 
 /* ========================
