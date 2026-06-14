@@ -95,28 +95,28 @@ const reviews = [
     {
         id: 1,
         name: 'Nguyễn Thị Linh',
-        avatar: 'https://via.placeholder.com/60?text=NT',
+        avatar: './img/anh_user.webp',
         rating: 5,
         text: 'Không gian nhẹ nhàng, trà rất thơm và không quá ngọt. Nhân viên phục vụ rất tận tâm!'
     },
     {
         id: 2,
         name: 'Trần Văn Minh',
-        avatar: 'https://via.placeholder.com/60?text=TM',
+        avatar: './img/anh_user2.webp',
         rating: 5,
         text: 'Đây là nơi yêu thích của tôi để thư giãn vào cuối tuần. Mỗi tách trà đều pha chế tuyệt vời.'
     },
     {
         id: 3,
         name: 'Phạm Thị Hương',
-        avatar: 'https://via.placeholder.com/60?text=PH',
+        avatar: './img/anh_user3.webp',
         rating: 5,
         text: 'Cảm giác an yên khi ngồi ở đây. Sản phẩm tuyệt vời, giá cả hợp lý. Sẽ quay lại!'
     },
     {
         id: 4,
         name: 'Lê Minh Quân',
-        avatar: 'https://via.placeholder.com/60?text=LQ',
+        avatar: './img/anh_user4.webp',
         rating: 5,
         text: 'Trà sữa ô long tuyệt vời! Thành phần nguyên liệu tự nhiên, rất đáng trải nghiệm.'
     }
